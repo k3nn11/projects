@@ -1,0 +1,68 @@
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Logging Library.exe.config
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Logging Library.exe
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Logging Library.pdb
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Serilog.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Serilog.Sinks.Console.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Serilog.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Serilog.Sinks.Console.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Serilog.Sinks.File.pdb
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Serilog.Sinks.File.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\obj\Debug\Logging Library.csproj.AssemblyReference.cache
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\obj\Debug\Logging Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\obj\Debug\Logging Library.csproj.CoreCompileInputs.cache
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\obj\Debug\Logging Library.csproj.CopyComplete
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\obj\Debug\Logging Library.exe
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\obj\Debug\Logging Library.pdb
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\System.Buffers.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\System.Memory.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\System.Text.Json.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\System.ValueTuple.dll
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\System.Buffers.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\System.Memory.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\System.Text.Json.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kt072\source\repos\modules\Logging Library App\Logging Library\bin\Debug\System.ValueTuple.xml

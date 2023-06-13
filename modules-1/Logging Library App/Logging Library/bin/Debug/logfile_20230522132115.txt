@@ -1,0 +1,164 @@
+22/05/2023 10:51:49, Information, Logged in information
+22/05/2023 10:51:49, Error, Logged in an error
+22/05/2023 10:53:55, Information, Logged in information
+22/05/2023 10:53:55, Warning, warning in the log
+22/05/2023 10:53:55, Error, Logged in an error
+22/05/2023 11:19:22, Information, Logged in information
+22/05/2023 11:19:22, Warning, warning in the log
+22/05/2023 11:19:22, Error, Logged in an error
+22/05/2023 11:19:22, Information, The Log has been recorded sucessfully
+22/05/2023 11:21:23, Error, Logged in an error
+22/05/2023 11:21:23, Information, The Log has been recorded sucessfully
+22/05/2023 11:25:46, Error, Logged in an error
+22/05/2023 11:25:46, Error, Logged in an error
+22/05/2023 11:25:46, Error, Logged in an error
+22/05/2023 11:25:46, Error, Logged in an error
+22/05/2023 11:25:46, Error, Logged in an error
+22/05/2023 11:25:46, Information, The Log has been recorded sucessfully
+22/05/2023 11:27:47, Information, Logged in information
+22/05/2023 11:30:30, Information, Logged in information
+22/05/2023 11:34:29, Warning, warning in the log
+22/05/2023 11:34:53, Error, Logged in an error
+22/05/2023 11:35:22, Warning, warning in the log
+22/05/2023 11:36:07, Warning, warning in the log
+22/05/2023 11:48:50, Error, Logged in an error
+22/05/2023 12:04:58, Information, Logged in information
+22/05/2023 12:07:04, Information, Logged in information
+22/05/2023 12:08:30, Information, Logged in information
+22/05/2023 12:10:25, Information, Logged in information
+22/05/2023 12:17:55, Information, Logged in information
+22/05/2023 12:35:53, Information, Logged in information
+22/05/2023 12:36:40, Information, Logged in information
+22/05/2023 12:42:41, Information, Logged in information
+22/05/2023 12:43:18, Information, Logged in information
+22/05/2023 12:44:33, Error, Logged in an error
+22/05/2023 12:44:33, Error, Logged in an error
+22/05/2023 12:44:33, Error, Logged in an error
+22/05/2023 12:44:33, Error, Logged in an error
+22/05/2023 12:44:33, Error, Logged in an error
+22/05/2023 12:44:33, Error, Logged in an error
+22/05/2023 12:44:33, Error, Logged in an error
+22/05/2023 12:44:33, Error, Logged in an error
+22/05/2023 12:44:33, Error, Logged in an error
+22/05/2023 12:44:33, Error, Logged in an error
+22/05/2023 12:44:33, Information, The Log has been recorded sucessfully
+22/05/2023 12:45:55, Information, Logged in information
+22/05/2023 12:46:47, Error, Logged in an error
+22/05/2023 12:46:47, Error, Logged in an error
+22/05/2023 12:46:47, Error, Logged in an error
+22/05/2023 12:46:47, Error, Logged in an error
+22/05/2023 12:46:47, Error, Logged in an error
+22/05/2023 12:46:47, Error, Logged in an error
+22/05/2023 12:46:47, Error, Logged in an error
+22/05/2023 12:46:47, Error, Logged in an error
+22/05/2023 12:46:47, Error, Logged in an error
+22/05/2023 12:46:47, Information, The Log has been recorded sucessfully
+22/05/2023 12:49:14, Error, Logged in an error
+22/05/2023 12:49:14, Error, Logged in an error
+22/05/2023 12:49:14, Error, Logged in an error
+22/05/2023 12:49:14, Error, Logged in an error
+22/05/2023 12:49:14, Error, Logged in an error
+22/05/2023 12:49:14, Information, The Log has been recorded sucessfully
+22/05/2023 12:50:46, Error, Logged in an error
+22/05/2023 12:51:48, Information, Logged in information
+22/05/2023 12:53:04, Information, Logged in information
+22/05/2023 12:53:04, Information, Logged in information
+22/05/2023 12:53:04, Information, Logged in information
+22/05/2023 12:53:05, Information, The Log has been recorded sucessfully
+22/05/2023 12:53:48, Information, Logged in information
+22/05/2023 12:53:48, Information, Logged in information
+22/05/2023 12:53:48, Information, Logged in information
+22/05/2023 12:53:48, Information, Logged in information
+22/05/2023 12:53:48, Information, The Log has been recorded sucessfully
+22/05/2023 12:54:03, Information, Logged in information
+22/05/2023 12:54:03, Information, Logged in information
+22/05/2023 12:54:03, Information, Logged in information
+22/05/2023 12:54:03, Information, Logged in information
+22/05/2023 12:54:03, Information, Logged in information
+22/05/2023 12:54:03, Information, Logged in information
+22/05/2023 12:54:03, Information, Logged in information
+22/05/2023 12:54:03, Information, Logged in information
+22/05/2023 12:54:03, Information, Logged in information
+22/05/2023 12:54:03, Information, Logged in information
+22/05/2023 12:54:03, Information, Logged in information
+22/05/2023 12:54:03, Information, Logged in information
+22/05/2023 12:54:03, Information, The Log has been recorded sucessfully
+22/05/2023 13:03:14, Information, Logged in information
+22/05/2023 13:03:14, Information, Logged in information
+22/05/2023 13:03:14, Information, Logged in information
+22/05/2023 13:03:14, Information, Logged in information
+22/05/2023 13:03:14, Information, Logged in information
+22/05/2023 13:03:14, Information, Logged in information
+22/05/2023 13:03:14, Information, The Log has been recorded sucessfully
+22/05/2023 13:04:59, Information, Logged in information
+22/05/2023 13:06:17, Information, Logged in information
+22/05/2023 13:06:59, Information, Logged in information
+22/05/2023 13:08:36, Information, Logged in information
+22/05/2023 13:10:46, Information, Logged in information
+22/05/2023 13:11:14, Information, Logged in information
+22/05/2023 13:12:16, Information, Logged in information
+22/05/2023 13:18:16, Information, Logged in information
+22/05/2023 13:18:16, Information, Logged in information
+22/05/2023 13:18:16, Information, Logged in information
+22/05/2023 13:18:16, Information, Logged in information
+22/05/2023 13:18:16, Information, Logged in information
+22/05/2023 13:18:16, Information, Logged in information
+22/05/2023 13:18:16, Information, Logged in information
+22/05/2023 13:18:16, Information, Logged in information
+22/05/2023 13:18:16, Information, Logged in information
+22/05/2023 13:18:16, Information, Logged in information
+22/05/2023 13:18:16, Information, Logged in information
+22/05/2023 13:18:16, Information, The Log has been recorded sucessfully
+22/05/2023 13:19:23, Information, Logged in information
+22/05/2023 13:19:23, Warning, warning in the log
+22/05/2023 13:19:23, Error, Logged in an error
+22/05/2023 13:19:23, Information, Logged in information
+22/05/2023 13:19:23, Warning, warning in the log
+22/05/2023 13:19:23, Error, Logged in an error
+22/05/2023 13:19:23, Information, Logged in information
+22/05/2023 13:19:23, Warning, warning in the log
+22/05/2023 13:19:23, Error, Logged in an error
+22/05/2023 13:19:23, Information, Logged in information
+22/05/2023 13:19:23, Warning, warning in the log
+22/05/2023 13:19:23, Error, Logged in an error
+22/05/2023 13:19:23, Information, Logged in information
+22/05/2023 13:19:23, Warning, warning in the log
+22/05/2023 13:19:23, Error, Logged in an error
+22/05/2023 13:19:23, Information, Logged in information
+22/05/2023 13:19:23, Warning, warning in the log
+22/05/2023 13:19:23, Error, Logged in an error
+22/05/2023 13:19:23, Information, Logged in information
+22/05/2023 13:19:23, Warning, warning in the log
+22/05/2023 13:19:23, Error, Logged in an error
+22/05/2023 13:19:23, Information, Logged in information
+22/05/2023 13:19:23, Warning, warning in the log
+22/05/2023 13:19:23, Error, Logged in an error
+22/05/2023 13:19:23, Information, Logged in information
+22/05/2023 13:19:23, Warning, warning in the log
+22/05/2023 13:19:23, Error, Logged in an error
+22/05/2023 13:19:23, Information, Logged in information
+22/05/2023 13:19:23, Warning, warning in the log
+22/05/2023 13:19:23, Error, Logged in an error
+22/05/2023 13:19:23, Information, The Log has been recorded sucessfully
+22/05/2023 13:21:15, Information, Logged in information
+22/05/2023 13:21:15, Warning, warning in the log
+22/05/2023 13:21:15, Error, Logged in an error
+22/05/2023 13:21:15, Information, Logged in information
+22/05/2023 13:21:15, Warning, warning in the log
+22/05/2023 13:21:15, Error, Logged in an error
+22/05/2023 13:21:15, Information, Logged in information
+22/05/2023 13:21:15, Warning, warning in the log
+22/05/2023 13:21:15, Error, Logged in an error
+22/05/2023 13:21:15, Information, Logged in information
+22/05/2023 13:21:15, Warning, warning in the log
+22/05/2023 13:21:15, Error, Logged in an error
+22/05/2023 13:21:15, Information, Logged in information
+22/05/2023 13:21:15, Warning, warning in the log
+22/05/2023 13:21:15, Error, Logged in an error
+22/05/2023 13:21:15, Information, Logged in information
+22/05/2023 13:21:15, Warning, warning in the log
+22/05/2023 13:21:15, Error, Logged in an error
+22/05/2023 13:21:15, Information, Logged in information
+22/05/2023 13:21:15, Warning, warning in the log
+22/05/2023 13:21:15, Error, Logged in an error
+22/05/2023 13:21:15, Information, Logged in information

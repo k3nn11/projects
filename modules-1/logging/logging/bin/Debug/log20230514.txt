@@ -1,0 +1,6 @@
+2023-05-14 12:04:47.897 +02:00 [INF] created {"Model":"Galaxy","Manufacturer":"Samsung","$type":"Phone"} at "2023-05-14T12:04:47.8789525+02:00"
+2023-05-14 12:04:47.979 +02:00 [ERR] The Model cannot be changed to null
+2023-05-14 12:04:47.980 +02:00 [INF] Model changed to  at 14/05/2023 12:04:47
+2023-05-14 12:04:47.981 +02:00 [ERR] make sure the model corresponds to the {"Model":null,"Manufacturer":"Samsung","$type":"Phone"}
+2023-05-14 12:04:47.981 +02:00 [INF] Model changed to Iphone at 14/05/2023 12:04:47
+2023-05-14 12:04:47.981 +02:00 [ERR] make sure the model corresponds to the {"Model":"Iphone","Manufacturer":"Samsung","$type":"Phone"}

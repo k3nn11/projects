@@ -1,0 +1,8 @@
+C:\Users\kt072\source\repos\modules\Reflection&UnmanagedResources\Reflection&UnmanagedResources\bin\Debug\Reflection&UnmanagedResources.exe.config
+C:\Users\kt072\source\repos\modules\Reflection&UnmanagedResources\Reflection&UnmanagedResources\bin\Debug\Reflection&UnmanagedResources.exe
+C:\Users\kt072\source\repos\modules\Reflection&UnmanagedResources\Reflection&UnmanagedResources\bin\Debug\Reflection&UnmanagedResources.pdb
+C:\Users\kt072\source\repos\modules\Reflection&UnmanagedResources\Reflection&UnmanagedResources\obj\Debug\Reflection&UnmanagedResources.csproj.AssemblyReference.cache
+C:\Users\kt072\source\repos\modules\Reflection&UnmanagedResources\Reflection&UnmanagedResources\obj\Debug\Reflection&UnmanagedResources.csproj.SuggestedBindingRedirects.cache
+C:\Users\kt072\source\repos\modules\Reflection&UnmanagedResources\Reflection&UnmanagedResources\obj\Debug\Reflection&UnmanagedResources.csproj.CoreCompileInputs.cache
+C:\Users\kt072\source\repos\modules\Reflection&UnmanagedResources\Reflection&UnmanagedResources\obj\Debug\Reflection&UnmanagedResources.exe
+C:\Users\kt072\source\repos\modules\Reflection&UnmanagedResources\Reflection&UnmanagedResources\obj\Debug\Reflection&UnmanagedResources.pdb

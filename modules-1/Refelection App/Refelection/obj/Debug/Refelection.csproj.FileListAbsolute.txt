@@ -1,0 +1,10 @@
+C:\Users\kt072\source\repos\modules\Refelection App\Refelection\bin\Debug\Refelection.exe.config
+C:\Users\kt072\source\repos\modules\Refelection App\Refelection\bin\Debug\Refelection.exe
+C:\Users\kt072\source\repos\modules\Refelection App\Refelection\bin\Debug\Refelection.pdb
+C:\Users\kt072\source\repos\modules\Refelection App\Refelection\obj\Debug\Refelection.csproj.AssemblyReference.cache
+C:\Users\kt072\source\repos\modules\Refelection App\Refelection\obj\Debug\Refelection.csproj.SuggestedBindingRedirects.cache
+C:\Users\kt072\source\repos\modules\Refelection App\Refelection\obj\Debug\Refelection.csproj.CoreCompileInputs.cache
+C:\Users\kt072\source\repos\modules\Refelection App\Refelection\obj\Debug\Refelection.exe
+C:\Users\kt072\source\repos\modules\Refelection App\Refelection\obj\Debug\Refelection.pdb
+C:\Users\kt072\source\repos\modules\Refelection App\Refelection\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\kt072\source\repos\modules\Refelection App\Refelection\obj\Debug\Refelection.csproj.CopyComplete

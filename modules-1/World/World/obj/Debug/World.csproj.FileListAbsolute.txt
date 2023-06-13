@@ -1,0 +1,8 @@
+C:\Users\kt072\Source\Repos\modules\World\World\obj\Debug\World.csproj.AssemblyReference.cache
+C:\Users\kt072\Source\Repos\modules\World\World\obj\Debug\World.csproj.SuggestedBindingRedirects.cache
+C:\Users\kt072\Source\Repos\modules\World\World\obj\Debug\World.csproj.CoreCompileInputs.cache
+C:\Users\kt072\Source\Repos\modules\World\World\bin\Debug\World.exe.config
+C:\Users\kt072\Source\Repos\modules\World\World\bin\Debug\World.exe
+C:\Users\kt072\Source\Repos\modules\World\World\bin\Debug\World.pdb
+C:\Users\kt072\Source\Repos\modules\World\World\obj\Debug\World.exe
+C:\Users\kt072\Source\Repos\modules\World\World\obj\Debug\World.pdb

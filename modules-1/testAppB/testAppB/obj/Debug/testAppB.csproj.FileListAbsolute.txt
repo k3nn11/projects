@@ -1,0 +1,8 @@
+C:\Users\kt072\source\repos\modules\testAppB\testAppB\bin\Debug\testAppB.exe.config
+C:\Users\kt072\source\repos\modules\testAppB\testAppB\bin\Debug\testAppB.exe
+C:\Users\kt072\source\repos\modules\testAppB\testAppB\bin\Debug\testAppB.pdb
+C:\Users\kt072\source\repos\modules\testAppB\testAppB\obj\Debug\testAppB.csproj.AssemblyReference.cache
+C:\Users\kt072\source\repos\modules\testAppB\testAppB\obj\Debug\testAppB.csproj.SuggestedBindingRedirects.cache
+C:\Users\kt072\source\repos\modules\testAppB\testAppB\obj\Debug\testAppB.csproj.CoreCompileInputs.cache
+C:\Users\kt072\source\repos\modules\testAppB\testAppB\obj\Debug\testAppB.exe
+C:\Users\kt072\source\repos\modules\testAppB\testAppB\obj\Debug\testAppB.pdb

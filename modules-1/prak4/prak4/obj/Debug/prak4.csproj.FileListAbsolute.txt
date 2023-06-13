@@ -1,0 +1,8 @@
+C:\Users\kt072\source\repos\modules\prak4\prak4\obj\Debug\prak4.csproj.AssemblyReference.cache
+C:\Users\kt072\source\repos\modules\prak4\prak4\obj\Debug\prak4.csproj.SuggestedBindingRedirects.cache
+C:\Users\kt072\source\repos\modules\prak4\prak4\obj\Debug\prak4.csproj.CoreCompileInputs.cache
+C:\Users\kt072\source\repos\modules\prak4\prak4\bin\Debug\prak4.exe.config
+C:\Users\kt072\source\repos\modules\prak4\prak4\bin\Debug\prak4.exe
+C:\Users\kt072\source\repos\modules\prak4\prak4\bin\Debug\prak4.pdb
+C:\Users\kt072\source\repos\modules\prak4\prak4\obj\Debug\prak4.exe
+C:\Users\kt072\source\repos\modules\prak4\prak4\obj\Debug\prak4.pdb

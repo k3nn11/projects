@@ -1,0 +1,47 @@
+2023-05-13 18:01:02.972 +02:00 [INF] ken
+2023-05-13 18:02:52.118 +02:00 [INF] jogm
+2023-05-13 18:30:32.651 +02:00 [INF] created {"Model":"Galaxy","Manufacturer":"Samsung","$type":"Phone"} at "2023-05-13T18:30:32.5588389+02:00"
+2023-05-13 18:32:33.979 +02:00 [INF] created {"Model":"Galaxy","Manufacturer":"Samsung","$type":"Phone"} at "2023-05-13T18:32:33.9392207+02:00"
+2023-05-13 18:32:34.133 +02:00 [ERR] The Model cannot be changed to null
+2023-05-13 18:32:34.136 +02:00 [INF] Model changed to  at 13/05/2023 18:32:34
+2023-05-13 18:32:34.137 +02:00 [ERR] make sure the model corresponds to the {"Model":null,"Manufacturer":"Samsung","$type":"Phone"}
+2023-05-13 18:34:43.085 +02:00 [INF] created {"Model":"Galaxy","Manufacturer":"Samsung","$type":"Phone"} at "2023-05-13T18:34:43.0245284+02:00"
+2023-05-13 18:34:43.156 +02:00 [ERR] The Model cannot be changed to null
+2023-05-13 18:34:43.157 +02:00 [INF] Model changed to  at 13/05/2023 18:34:43
+2023-05-13 18:34:43.158 +02:00 [ERR] make sure the model corresponds to the {"Model":null,"Manufacturer":"Samsung","$type":"Phone"}
+2023-05-13 18:34:43.173 +02:00 [FTL] something went wrong
+2023-05-13 18:40:26.068 +02:00 [INF] created {"Model":"Galaxy","Manufacturer":"Samsung","$type":"Phone"} at "2023-05-13T18:40:26.0191485+02:00"
+2023-05-13 18:40:26.257 +02:00 [ERR] The Model cannot be changed to null
+2023-05-13 18:40:26.259 +02:00 [INF] Model changed to  at 13/05/2023 18:40:26
+2023-05-13 18:40:26.266 +02:00 [ERR] make sure the model corresponds to the {"Model":null,"Manufacturer":"Samsung","$type":"Phone"}
+2023-05-13 18:40:39.386 +02:00 [INF] created {"Model":"Galaxy","Manufacturer":"Samsung","$type":"Phone"} at "2023-05-13T18:40:39.3644602+02:00"
+2023-05-13 18:40:39.433 +02:00 [ERR] The Model cannot be changed to null
+2023-05-13 18:40:39.435 +02:00 [INF] Model changed to  at 13/05/2023 18:40:39
+2023-05-13 18:40:39.435 +02:00 [ERR] make sure the model corresponds to the {"Model":null,"Manufacturer":"Samsung","$type":"Phone"}
+2023-05-13 19:32:03.510 +02:00 [INF] created {"Model":"Galaxy","Manufacturer":"Samsung","$type":"Phone"} at "2023-05-13T19:32:03.4942237+02:00"
+2023-05-13 19:32:03.631 +02:00 [ERR] The Model cannot be changed to null
+2023-05-13 19:32:03.633 +02:00 [INF] Model changed to  at 13/05/2023 19:32:03
+2023-05-13 19:32:03.634 +02:00 [ERR] make sure the model corresponds to the {"Model":null,"Manufacturer":"Samsung","$type":"Phone"}
+2023-05-13 19:32:03.634 +02:00 [INF] Model changed to Iphone at 13/05/2023 19:32:03
+2023-05-13 19:32:03.634 +02:00 [ERR] make sure the model corresponds to the {"Model":"Iphone","Manufacturer":"Samsung","$type":"Phone"}
+2023-05-13 19:32:03.652 +02:00 [FTL] Something went wrong
+2023-05-13 19:32:14.404 +02:00 [INF] created {"Model":"Galaxy","Manufacturer":"Samsung","$type":"Phone"} at "2023-05-13T19:32:14.3863525+02:00"
+2023-05-13 19:32:14.436 +02:00 [ERR] The Model cannot be changed to null
+2023-05-13 19:32:14.436 +02:00 [INF] Model changed to  at 13/05/2023 19:32:14
+2023-05-13 19:32:14.437 +02:00 [ERR] make sure the model corresponds to the {"Model":null,"Manufacturer":"Samsung","$type":"Phone"}
+2023-05-13 19:32:14.437 +02:00 [INF] Model changed to Iphone at 13/05/2023 19:32:14
+2023-05-13 19:32:14.437 +02:00 [ERR] make sure the model corresponds to the {"Model":"Iphone","Manufacturer":"Samsung","$type":"Phone"}
+2023-05-13 19:32:14.437 +02:00 [FTL] Something went wrong
+2023-05-13 19:32:16.757 +02:00 [INF] created {"Model":"Galaxy","Manufacturer":"Samsung","$type":"Phone"} at "2023-05-13T19:32:16.7409907+02:00"
+2023-05-13 19:32:16.789 +02:00 [ERR] The Model cannot be changed to null
+2023-05-13 19:32:16.790 +02:00 [INF] Model changed to  at 13/05/2023 19:32:16
+2023-05-13 19:32:16.790 +02:00 [ERR] make sure the model corresponds to the {"Model":null,"Manufacturer":"Samsung","$type":"Phone"}
+2023-05-13 19:32:16.790 +02:00 [INF] Model changed to Iphone at 13/05/2023 19:32:16
+2023-05-13 19:32:16.790 +02:00 [ERR] make sure the model corresponds to the {"Model":"Iphone","Manufacturer":"Samsung","$type":"Phone"}
+2023-05-13 19:32:16.791 +02:00 [FTL] Something went wrong
+2023-05-13 19:33:10.826 +02:00 [INF] created {"Model":"Galaxy","Manufacturer":"Samsung","$type":"Phone"} at "2023-05-13T19:33:10.7917676+02:00"
+2023-05-13 19:33:10.925 +02:00 [ERR] The Model cannot be changed to null
+2023-05-13 19:33:10.927 +02:00 [INF] Model changed to  at 13/05/2023 19:33:10
+2023-05-13 19:33:10.928 +02:00 [ERR] make sure the model corresponds to the {"Model":null,"Manufacturer":"Samsung","$type":"Phone"}
+2023-05-13 19:33:10.928 +02:00 [INF] Model changed to Iphone at 13/05/2023 19:33:10
+2023-05-13 19:33:10.928 +02:00 [ERR] make sure the model corresponds to the {"Model":"Iphone","Manufacturer":"Samsung","$type":"Phone"}

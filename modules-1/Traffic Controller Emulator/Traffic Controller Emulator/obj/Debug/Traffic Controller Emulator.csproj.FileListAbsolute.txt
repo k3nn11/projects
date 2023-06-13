@@ -1,0 +1,8 @@
+C:\Users\kt072\source\repos\modules\Traffic Controller Emulator\Traffic Controller Emulator\bin\Debug\Traffic Controller Emulator.exe.config
+C:\Users\kt072\source\repos\modules\Traffic Controller Emulator\Traffic Controller Emulator\bin\Debug\Traffic Controller Emulator.exe
+C:\Users\kt072\source\repos\modules\Traffic Controller Emulator\Traffic Controller Emulator\bin\Debug\Traffic Controller Emulator.pdb
+C:\Users\kt072\source\repos\modules\Traffic Controller Emulator\Traffic Controller Emulator\obj\Debug\Traffic Controller Emulator.csproj.AssemblyReference.cache
+C:\Users\kt072\source\repos\modules\Traffic Controller Emulator\Traffic Controller Emulator\obj\Debug\Traffic Controller Emulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\kt072\source\repos\modules\Traffic Controller Emulator\Traffic Controller Emulator\obj\Debug\Traffic Controller Emulator.csproj.CoreCompileInputs.cache
+C:\Users\kt072\source\repos\modules\Traffic Controller Emulator\Traffic Controller Emulator\obj\Debug\Traffic Controller Emulator.exe
+C:\Users\kt072\source\repos\modules\Traffic Controller Emulator\Traffic Controller Emulator\obj\Debug\Traffic Controller Emulator.pdb

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title><Table page></title>
+        <style>
+            table{
+                border:5px solid blue;
+                width:10%
+            }
+            tr,td{
+                border: 3px solid rgb(246, 132, 151);
+                
+            }
+        </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Subject</th>
+            <th>Marks</th>
+        </tr>
+        <tr>
+            <td rowspan="2">Tom</td>
+            <td rowspan="2">Css</td>
+            <td >10</td>
+        </tr>
+        <tr>
+            <td>System</td>
+        </tr>
+        <tr>
+            <td colspan="3">Should be: 100</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Karen</td>
+            <td rowspan="1">Web</td>
+            <td>40</td>
+        </tr>
+        <tr>
+            <td rowspan="1">Html</td>
+            <td>30</td>
+        </tr>
+
+
+
+    </table>
+</body>
+</html>

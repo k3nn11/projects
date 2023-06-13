@@ -1,0 +1,28 @@
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по OCP\OCP\OCP\bin\Debug\netcoreapp3.1\OCP.exe
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по OCP\OCP\OCP\bin\Debug\netcoreapp3.1\OCP.deps.json
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по OCP\OCP\OCP\bin\Debug\netcoreapp3.1\OCP.runtimeconfig.json
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по OCP\OCP\OCP\bin\Debug\netcoreapp3.1\OCP.runtimeconfig.dev.json
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по OCP\OCP\OCP\bin\Debug\netcoreapp3.1\OCP.dll
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по OCP\OCP\OCP\bin\Debug\netcoreapp3.1\OCP.pdb
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по OCP\OCP\OCP\obj\Debug\netcoreapp3.1\OCP.csproj.AssemblyReference.cache
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по OCP\OCP\OCP\obj\Debug\netcoreapp3.1\OCP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по OCP\OCP\OCP\obj\Debug\netcoreapp3.1\OCP.AssemblyInfoInputs.cache
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по OCP\OCP\OCP\obj\Debug\netcoreapp3.1\OCP.AssemblyInfo.cs
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по OCP\OCP\OCP\obj\Debug\netcoreapp3.1\OCP.csproj.CoreCompileInputs.cache
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по OCP\OCP\OCP\obj\Debug\netcoreapp3.1\OCP.dll
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по OCP\OCP\OCP\obj\Debug\netcoreapp3.1\OCP.pdb
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по OCP\OCP\OCP\obj\Debug\netcoreapp3.1\OCP.genruntimeconfig.cache
+C:\Users\kt072\Downloads\OCP (1)\OCP\OCP\bin\Debug\netcoreapp3.1\OCP.exe
+C:\Users\kt072\Downloads\OCP (1)\OCP\OCP\bin\Debug\netcoreapp3.1\OCP.deps.json
+C:\Users\kt072\Downloads\OCP (1)\OCP\OCP\bin\Debug\netcoreapp3.1\OCP.runtimeconfig.json
+C:\Users\kt072\Downloads\OCP (1)\OCP\OCP\bin\Debug\netcoreapp3.1\OCP.runtimeconfig.dev.json
+C:\Users\kt072\Downloads\OCP (1)\OCP\OCP\bin\Debug\netcoreapp3.1\OCP.dll
+C:\Users\kt072\Downloads\OCP (1)\OCP\OCP\bin\Debug\netcoreapp3.1\OCP.pdb
+C:\Users\kt072\Downloads\OCP (1)\OCP\OCP\obj\Debug\netcoreapp3.1\OCP.csproj.AssemblyReference.cache
+C:\Users\kt072\Downloads\OCP (1)\OCP\OCP\obj\Debug\netcoreapp3.1\OCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt072\Downloads\OCP (1)\OCP\OCP\obj\Debug\netcoreapp3.1\OCP.AssemblyInfoInputs.cache
+C:\Users\kt072\Downloads\OCP (1)\OCP\OCP\obj\Debug\netcoreapp3.1\OCP.AssemblyInfo.cs
+C:\Users\kt072\Downloads\OCP (1)\OCP\OCP\obj\Debug\netcoreapp3.1\OCP.csproj.CoreCompileInputs.cache
+C:\Users\kt072\Downloads\OCP (1)\OCP\OCP\obj\Debug\netcoreapp3.1\OCP.dll
+C:\Users\kt072\Downloads\OCP (1)\OCP\OCP\obj\Debug\netcoreapp3.1\OCP.pdb
+C:\Users\kt072\Downloads\OCP (1)\OCP\OCP\obj\Debug\netcoreapp3.1\OCP.genruntimeconfig.cache

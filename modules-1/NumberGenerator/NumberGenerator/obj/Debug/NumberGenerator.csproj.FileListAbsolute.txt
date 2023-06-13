@@ -1,0 +1,8 @@
+C:\Users\kt072\source\repos\modules\NumberGenerator\NumberGenerator\bin\Debug\NumberGenerator.exe.config
+C:\Users\kt072\source\repos\modules\NumberGenerator\NumberGenerator\bin\Debug\NumberGenerator.exe
+C:\Users\kt072\source\repos\modules\NumberGenerator\NumberGenerator\bin\Debug\NumberGenerator.pdb
+C:\Users\kt072\source\repos\modules\NumberGenerator\NumberGenerator\obj\Debug\NumberGenerator.csproj.AssemblyReference.cache
+C:\Users\kt072\source\repos\modules\NumberGenerator\NumberGenerator\obj\Debug\NumberGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\kt072\source\repos\modules\NumberGenerator\NumberGenerator\obj\Debug\NumberGenerator.csproj.CoreCompileInputs.cache
+C:\Users\kt072\source\repos\modules\NumberGenerator\NumberGenerator\obj\Debug\NumberGenerator.exe
+C:\Users\kt072\source\repos\modules\NumberGenerator\NumberGenerator\obj\Debug\NumberGenerator.pdb

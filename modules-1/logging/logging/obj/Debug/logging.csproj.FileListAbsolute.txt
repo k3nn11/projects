@@ -1,0 +1,16 @@
+C:\Users\kt072\source\repos\modules\logging\logging\obj\Debug\logging.csproj.AssemblyReference.cache
+C:\Users\kt072\source\repos\modules\logging\logging\obj\Debug\logging.csproj.SuggestedBindingRedirects.cache
+C:\Users\kt072\source\repos\modules\logging\logging\obj\Debug\logging.csproj.CoreCompileInputs.cache
+C:\Users\kt072\source\repos\modules\logging\logging\bin\Debug\logging.exe.config
+C:\Users\kt072\source\repos\modules\logging\logging\bin\Debug\logging.exe
+C:\Users\kt072\source\repos\modules\logging\logging\bin\Debug\logging.pdb
+C:\Users\kt072\source\repos\modules\logging\logging\bin\Debug\Serilog.dll
+C:\Users\kt072\source\repos\modules\logging\logging\bin\Debug\Serilog.Sinks.Console.dll
+C:\Users\kt072\source\repos\modules\logging\logging\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\kt072\source\repos\modules\logging\logging\bin\Debug\Serilog.xml
+C:\Users\kt072\source\repos\modules\logging\logging\bin\Debug\Serilog.Sinks.Console.xml
+C:\Users\kt072\source\repos\modules\logging\logging\bin\Debug\Serilog.Sinks.File.pdb
+C:\Users\kt072\source\repos\modules\logging\logging\bin\Debug\Serilog.Sinks.File.xml
+C:\Users\kt072\source\repos\modules\logging\logging\obj\Debug\logging.csproj.CopyComplete
+C:\Users\kt072\source\repos\modules\logging\logging\obj\Debug\logging.exe
+C:\Users\kt072\source\repos\modules\logging\logging\obj\Debug\logging.pdb

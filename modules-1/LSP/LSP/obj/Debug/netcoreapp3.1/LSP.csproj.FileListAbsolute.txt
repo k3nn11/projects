@@ -1,0 +1,28 @@
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по LSP\LSP\LSP\bin\Debug\netcoreapp3.1\LSP.exe
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по LSP\LSP\LSP\bin\Debug\netcoreapp3.1\LSP.deps.json
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по LSP\LSP\LSP\bin\Debug\netcoreapp3.1\LSP.runtimeconfig.json
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по LSP\LSP\LSP\bin\Debug\netcoreapp3.1\LSP.runtimeconfig.dev.json
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по LSP\LSP\LSP\bin\Debug\netcoreapp3.1\LSP.dll
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по LSP\LSP\LSP\bin\Debug\netcoreapp3.1\LSP.pdb
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по LSP\LSP\LSP\obj\Debug\netcoreapp3.1\LSP.csproj.AssemblyReference.cache
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по LSP\LSP\LSP\obj\Debug\netcoreapp3.1\LSP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по LSP\LSP\LSP\obj\Debug\netcoreapp3.1\LSP.AssemblyInfoInputs.cache
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по LSP\LSP\LSP\obj\Debug\netcoreapp3.1\LSP.AssemblyInfo.cs
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по LSP\LSP\LSP\obj\Debug\netcoreapp3.1\LSP.csproj.CoreCompileInputs.cache
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по LSP\LSP\LSP\obj\Debug\netcoreapp3.1\LSP.dll
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по LSP\LSP\LSP\obj\Debug\netcoreapp3.1\LSP.pdb
+D:\Лекции\Вечерняя школа\03. ООП\Модульні практичні завдання\Завдання по LSP\LSP\LSP\obj\Debug\netcoreapp3.1\LSP.genruntimeconfig.cache
+C:\Users\kt072\Downloads\LSP\LSP\LSP\obj\Debug\netcoreapp3.1\LSP.csproj.AssemblyReference.cache
+C:\Users\kt072\Downloads\LSP\LSP\LSP\obj\Debug\netcoreapp3.1\LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt072\Downloads\LSP\LSP\LSP\obj\Debug\netcoreapp3.1\LSP.AssemblyInfoInputs.cache
+C:\Users\kt072\Downloads\LSP\LSP\LSP\obj\Debug\netcoreapp3.1\LSP.AssemblyInfo.cs
+C:\Users\kt072\Downloads\LSP\LSP\LSP\obj\Debug\netcoreapp3.1\LSP.csproj.CoreCompileInputs.cache
+C:\Users\kt072\Downloads\LSP\LSP\LSP\obj\Debug\netcoreapp3.1\LSP.dll
+C:\Users\kt072\Downloads\LSP\LSP\LSP\obj\Debug\netcoreapp3.1\LSP.pdb
+C:\Users\kt072\Downloads\LSP\LSP\LSP\bin\Debug\netcoreapp3.1\LSP.exe
+C:\Users\kt072\Downloads\LSP\LSP\LSP\bin\Debug\netcoreapp3.1\LSP.deps.json
+C:\Users\kt072\Downloads\LSP\LSP\LSP\bin\Debug\netcoreapp3.1\LSP.runtimeconfig.json
+C:\Users\kt072\Downloads\LSP\LSP\LSP\bin\Debug\netcoreapp3.1\LSP.runtimeconfig.dev.json
+C:\Users\kt072\Downloads\LSP\LSP\LSP\bin\Debug\netcoreapp3.1\LSP.dll
+C:\Users\kt072\Downloads\LSP\LSP\LSP\bin\Debug\netcoreapp3.1\LSP.pdb
+C:\Users\kt072\Downloads\LSP\LSP\LSP\obj\Debug\netcoreapp3.1\LSP.genruntimeconfig.cache

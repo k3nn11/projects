@@ -1,0 +1,27 @@
+2023-05-13 18:32:34.133 +02:00 [ERR] The Model cannot be changed to null
+2023-05-13 18:32:34.137 +02:00 [ERR] make sure the model corresponds to the {"Model":null,"Manufacturer":"Samsung","$type":"Phone"}
+2023-05-13 18:34:43.156 +02:00 [ERR] The Model cannot be changed to null
+2023-05-13 18:34:43.158 +02:00 [ERR] make sure the model corresponds to the {"Model":null,"Manufacturer":"Samsung","$type":"Phone"}
+2023-05-13 18:34:43.173 +02:00 [FTL] something went wrong
+2023-05-13 18:40:26.257 +02:00 [ERR] The Model cannot be changed to null
+2023-05-13 18:40:26.266 +02:00 [ERR] make sure the model corresponds to the {"Model":null,"Manufacturer":"Samsung","$type":"Phone"}
+2023-05-13 18:40:39.433 +02:00 [ERR] The Model cannot be changed to null
+2023-05-13 18:40:39.435 +02:00 [ERR] make sure the model corresponds to the {"Model":null,"Manufacturer":"Samsung","$type":"Phone"}
+2023-05-13 19:32:03.631 +02:00 [ERR] The Model cannot be changed to null
+2023-05-13 19:32:03.634 +02:00 [ERR] make sure the model corresponds to the {"Model":null,"Manufacturer":"Samsung","$type":"Phone"}
+2023-05-13 19:32:03.634 +02:00 [ERR] make sure the model corresponds to the {"Model":"Iphone","Manufacturer":"Samsung","$type":"Phone"}
+2023-05-13 19:32:03.652 +02:00 [FTL] Something went wrong
+2023-05-13 19:32:14.436 +02:00 [ERR] The Model cannot be changed to null
+2023-05-13 19:32:14.437 +02:00 [ERR] make sure the model corresponds to the {"Model":null,"Manufacturer":"Samsung","$type":"Phone"}
+2023-05-13 19:32:14.437 +02:00 [ERR] make sure the model corresponds to the {"Model":"Iphone","Manufacturer":"Samsung","$type":"Phone"}
+2023-05-13 19:32:14.437 +02:00 [FTL] Something went wrong
+2023-05-13 19:32:16.789 +02:00 [ERR] The Model cannot be changed to null
+2023-05-13 19:32:16.790 +02:00 [ERR] make sure the model corresponds to the {"Model":null,"Manufacturer":"Samsung","$type":"Phone"}
+2023-05-13 19:32:16.790 +02:00 [ERR] make sure the model corresponds to the {"Model":"Iphone","Manufacturer":"Samsung","$type":"Phone"}
+2023-05-13 19:32:16.791 +02:00 [FTL] Something went wrong
+2023-05-13 19:33:10.925 +02:00 [ERR] The Model cannot be changed to null
+2023-05-13 19:33:10.928 +02:00 [ERR] make sure the model corresponds to the {"Model":null,"Manufacturer":"Samsung","$type":"Phone"}
+2023-05-13 19:33:10.928 +02:00 [ERR] make sure the model corresponds to the {"Model":"Iphone","Manufacturer":"Samsung","$type":"Phone"}
+2023-05-14 12:04:47.979 +02:00 [ERR] The Model cannot be changed to null
+2023-05-14 12:04:47.981 +02:00 [ERR] make sure the model corresponds to the {"Model":null,"Manufacturer":"Samsung","$type":"Phone"}
+2023-05-14 12:04:47.981 +02:00 [ERR] make sure the model corresponds to the {"Model":"Iphone","Manufacturer":"Samsung","$type":"Phone"}
