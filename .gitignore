@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Frontend/Repos/Blazor/obj/Debug/net10.0/compressed/0gdb8yzlz7-{0}-y7v9cxd14o-y7v9cxd14o.gz
+/Frontend/Repos/Blazor/obj/Debug/net10.0/compressed/0hgptgqiam-{0}-iovd86k7lj-iovd86k7lj.gz
+*.gz
+/RazorWebApps/FoRavers/.vs/FoRavers/CopilotIndices/18.7.1253.33689/CodeChunks.db
+/RazorWebApps/FoRavers/.vs/FoRavers/CopilotIndices/18.7.1253.33689/SemanticSymbols.db
+/RazorWebApps/FoRavers/.vs/FoRavers.slnx/DesignTimeBuild/.dtbcache.v2
