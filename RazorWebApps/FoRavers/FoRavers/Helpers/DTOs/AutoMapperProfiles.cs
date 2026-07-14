@@ -7,7 +7,7 @@ namespace FoRavers.Helpers.DTOs
     {
         public AutoMapperProfiles()
         {
-            CreateMap<User, UserDTO>();
+            CreateMap<User, UpdateUserProfileDTO>();
         }
     }
 }
