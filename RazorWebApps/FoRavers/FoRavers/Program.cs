@@ -1,4 +1,5 @@
 using FoRavers.Data;
+using FoRavers.Helpers.DTOs;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -8,6 +9,7 @@ builder.Services.AddRazorPages();
 builder.Services.AddDbContext<FoRaversDbContext>(Options => 
 Options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection") 
 ?? throw new InvalidOperationException("Connection string 'FoRaversDbContext' not found.")));
+builder.Services.AddAutoMapper(cfg => cfg.AddProfile<AutoMapperProfiles>());
 
 var app = builder.Build();
 
