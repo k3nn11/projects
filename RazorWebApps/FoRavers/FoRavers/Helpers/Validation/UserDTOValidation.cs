@@ -3,7 +3,7 @@ using FluentValidation;
 
 namespace FoRavers.Helpers.Validation
 {
-    public class UserDTOValidation : AbstractValidator<UserDTO>
+    public class UserDTOValidation : AbstractValidator<UpdateUserProfileDTO>
     {
         public UserDTOValidation() 
         {
