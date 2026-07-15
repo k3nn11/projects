@@ -9,7 +9,7 @@ namespace FoRavers.Repositories
 
         Task<IEnumerable<T>> FindAsync(Expression<Func<T, bool>> predicate);
 
-        Task<T?> GetByIdAsync(int id);
+        Task<T?> GetByIdAsync(Guid id);
         
         Task AddAsync(T entity);
 
