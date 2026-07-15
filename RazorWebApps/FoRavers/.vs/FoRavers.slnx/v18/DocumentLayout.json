@@ -3,60 +3,100 @@
   "WorkspaceRootPath": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\helpers\\dtos\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\helpers\\dtos\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\helpers\\dtos\\createuserprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\helpers\\dtos\\createuserprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\data\\foraversdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\data\\foraversdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\helpers\\validation\\createuserprofiledtovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\helpers\\validation\\createuserprofiledtovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\models\\rsvp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\models\\rsvp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\services\\followservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\services\\followservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\services\\artistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\services\\artistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\models\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\models\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\services\\promoterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\services\\promoterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\models\\promoter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\models\\promoter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\services\\rsvpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\services\\rsvpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\models\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\models\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\services\\venueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\services\\venueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\models\\crew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\models\\crew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\foravers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4E89E38A-5E72-46AB-9186-C13E0F38663D}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\foravers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\models\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\models\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\models\\promoter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\models\\promoter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\models\\rsvp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\models\\rsvp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\models\\rsvpstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\models\\rsvpstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\models\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\models\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\models\\crew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\models\\crew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|e:\\users\\kt072\\source\\projects\\razorwebapps\\foravers\\foravers\\foravers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C4672D3-3F8B-128B-66E6-2E7C13E9308A}|FoRavers\\FoRavers.csproj|solutionrelative:foravers\\foravers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,154 +106,272 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\appsettings.json",
-              "RelativeDocumentMoniker": "FoRavers\\appsettings.json",
-              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\appsettings.json",
-              "RelativeToolTip": "FoRavers\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-02T15:36:30.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Target.cs",
-              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\Target.cs",
-              "RelativeDocumentMoniker": "FoRavers\\Models\\Target.cs",
-              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\Target.cs",
-              "RelativeToolTip": "FoRavers\\Models\\Target.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Helpers\\DTOs\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "FoRavers\\Helpers\\DTOs\\AutoMapperProfiles.cs",
+              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Helpers\\DTOs\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "FoRavers\\Helpers\\DTOs\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T13:27:24.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\User.cs",
-              "RelativeDocumentMoniker": "FoRavers\\Models\\User.cs",
-              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\User.cs",
-              "RelativeToolTip": "FoRavers\\Models\\User.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T12:48:11.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Venue.cs",
-              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\Venue.cs",
-              "RelativeDocumentMoniker": "FoRavers\\Models\\Venue.cs",
-              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\Venue.cs",
-              "RelativeToolTip": "FoRavers\\Models\\Venue.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T12:50:10.88Z",
+              "WhenOpened": "2026-07-14T20:37:42.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FoRaversDbContext.cs",
-              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Data\\FoRaversDbContext.cs",
-              "RelativeDocumentMoniker": "FoRavers\\Data\\FoRaversDbContext.cs",
-              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Data\\FoRaversDbContext.cs",
-              "RelativeToolTip": "FoRavers\\Data\\FoRaversDbContext.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAIwDYAAAAyAAAAAAAAAA==",
+              "Title": "CreateUserProfileDTOValidation.cs",
+              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Helpers\\Validation\\CreateUserProfileDTOValidation.cs",
+              "RelativeDocumentMoniker": "FoRavers\\Helpers\\Validation\\CreateUserProfileDTOValidation.cs",
+              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Helpers\\Validation\\CreateUserProfileDTOValidation.cs",
+              "RelativeToolTip": "FoRavers\\Helpers\\Validation\\CreateUserProfileDTOValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T15:00:14.824Z",
+              "WhenOpened": "2026-07-14T20:34:54.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Program.cs",
-              "RelativeDocumentMoniker": "FoRavers\\Program.cs",
-              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Program.cs",
-              "RelativeToolTip": "FoRavers\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "CreateUserProfileDTO.cs",
+              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Helpers\\DTOs\\CreateUserProfileDTO.cs",
+              "RelativeDocumentMoniker": "FoRavers\\Helpers\\DTOs\\CreateUserProfileDTO.cs",
+              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Helpers\\DTOs\\CreateUserProfileDTO.cs",
+              "RelativeToolTip": "FoRavers\\Helpers\\DTOs\\CreateUserProfileDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T11:47:47.061Z",
+              "WhenOpened": "2026-07-14T20:26:46.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FollowService.cs",
+              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Services\\FollowService.cs",
+              "RelativeDocumentMoniker": "FoRavers\\Services\\FollowService.cs",
+              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Services\\FollowService.cs",
+              "RelativeToolTip": "FoRavers\\Services\\FollowService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T11:50:31.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PromoterService.cs",
+              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Services\\PromoterService.cs",
+              "RelativeDocumentMoniker": "FoRavers\\Services\\PromoterService.cs",
+              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Services\\PromoterService.cs",
+              "RelativeToolTip": "FoRavers\\Services\\PromoterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T11:49:37.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArtistService.cs",
+              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Services\\ArtistService.cs",
+              "RelativeDocumentMoniker": "FoRavers\\Services\\ArtistService.cs",
+              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Services\\ArtistService.cs",
+              "RelativeToolTip": "FoRavers\\Services\\ArtistService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T11:48:00.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "FoRavers\\Services\\EventService.cs",
+              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Services\\EventService.cs",
+              "RelativeToolTip": "FoRavers\\Services\\EventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T11:48:16.2Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "RSVP.cs",
-              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\RSVP.cs",
-              "RelativeDocumentMoniker": "FoRavers\\Models\\RSVP.cs",
-              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\RSVP.cs",
-              "RelativeToolTip": "FoRavers\\Models\\RSVP.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "FoRavers\\Services\\UserService.cs",
+              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Services\\UserService.cs",
+              "RelativeToolTip": "FoRavers\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T12:49:25.819Z",
+              "WhenOpened": "2026-07-03T11:47:38.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Promoter.cs",
-              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\Promoter.cs",
-              "RelativeDocumentMoniker": "FoRavers\\Models\\Promoter.cs",
-              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\Promoter.cs",
-              "RelativeToolTip": "FoRavers\\Models\\Promoter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Title": "RSVPService.cs",
+              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Services\\RSVPService.cs",
+              "RelativeDocumentMoniker": "FoRavers\\Services\\RSVPService.cs",
+              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Services\\RSVPService.cs",
+              "RelativeToolTip": "FoRavers\\Services\\RSVPService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T12:49:03.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Artist.cs",
-              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\Artist.cs",
-              "RelativeDocumentMoniker": "FoRavers\\Models\\Artist.cs",
-              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\Artist.cs",
-              "RelativeToolTip": "FoRavers\\Models\\Artist.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T13:32:42.256Z",
+              "WhenOpened": "2026-07-03T11:49:55.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "VenueService.cs",
+              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Services\\VenueService.cs",
+              "RelativeDocumentMoniker": "FoRavers\\Services\\VenueService.cs",
+              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Services\\VenueService.cs",
+              "RelativeToolTip": "FoRavers\\Services\\VenueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T11:48:56.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "FoRavers\\Repositories\\Repository.cs",
+              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Repositories\\Repository.cs",
+              "RelativeToolTip": "FoRavers\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T09:52:32.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "FoRavers\\Repositories\\IRepository.cs",
+              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "FoRavers\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T09:52:12.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RSVPStatus.cs",
+              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\RSVPStatus.cs",
+              "RelativeDocumentMoniker": "FoRavers\\Models\\RSVPStatus.cs",
+              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\RSVPStatus.cs",
+              "RelativeToolTip": "FoRavers\\Models\\RSVPStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T09:48:45.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\EntityBase.cs",
+              "RelativeDocumentMoniker": "FoRavers\\Models\\EntityBase.cs",
+              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\EntityBase.cs",
+              "RelativeToolTip": "FoRavers\\Models\\EntityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T08:49:31.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FoRavers\\Models\\User.cs",
+              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\User.cs",
+              "RelativeToolTip": "FoRavers\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T12:48:11.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "FoRavers\\Models\\Venue.cs",
+              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\Venue.cs",
+              "RelativeToolTip": "FoRavers\\Models\\Venue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T12:50:10.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RSVP.cs",
+              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\RSVP.cs",
+              "RelativeDocumentMoniker": "FoRavers\\Models\\RSVP.cs",
+              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\RSVP.cs",
+              "RelativeToolTip": "FoRavers\\Models\\RSVP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T12:49:25.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Promoter.cs",
+              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\Promoter.cs",
+              "RelativeDocumentMoniker": "FoRavers\\Models\\Promoter.cs",
+              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\Promoter.cs",
+              "RelativeToolTip": "FoRavers\\Models\\Promoter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T12:49:03.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "FoRavers\\Models\\Artist.cs",
+              "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\Artist.cs",
+              "RelativeToolTip": "FoRavers\\Models\\Artist.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T13:32:42.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Follow.cs",
               "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\Follow.cs",
               "RelativeDocumentMoniker": "FoRavers\\Models\\Follow.cs",
               "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\Follow.cs",
               "RelativeToolTip": "FoRavers\\Models\\Follow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T12:48:32.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-02T12:48:32.516Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Event.cs",
               "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\Event.cs",
               "RelativeDocumentMoniker": "FoRavers\\Models\\Event.cs",
               "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\Event.cs",
               "RelativeToolTip": "FoRavers\\Models\\Event.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBQAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T12:48:46.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-02T12:48:46.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "ChatMessage.cs",
               "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\ChatMessage.cs",
               "RelativeDocumentMoniker": "FoRavers\\Models\\ChatMessage.cs",
@@ -221,12 +379,11 @@
               "RelativeToolTip": "FoRavers\\Models\\ChatMessage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAClAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T12:52:02.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-02T12:52:02.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "Crew.cs",
               "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\Models\\Crew.cs",
               "RelativeDocumentMoniker": "FoRavers\\Models\\Crew.cs",
@@ -234,21 +391,19 @@
               "RelativeToolTip": "FoRavers\\Models\\Crew.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAB8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T12:51:47.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-02T12:51:47.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "FoRavers",
+              "DocumentIndex": 23,
+              "Title": "FoRavers.csproj",
               "DocumentMoniker": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\FoRavers.csproj",
               "RelativeDocumentMoniker": "FoRavers\\FoRavers.csproj",
               "ToolTip": "E:\\Users\\kt072\\source\\projects\\RazorWebApps\\FoRavers\\FoRavers\\FoRavers.csproj",
               "RelativeToolTip": "FoRavers\\FoRavers.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-02T15:01:42.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-02T15:01:42.442Z"
             }
           ]
         }
