@@ -8,6 +8,10 @@ namespace FoRavers.Helpers.DTOs
         public AutoMapperProfiles()
         {
             CreateMap<User, UpdateUserProfileDTO>();
+            CreateMap<Follow, FollowRequest>();
+            CreateMap<Follow, FollowTargetSummary>();
+            CreateMap<User, CreateUserProfileDTO>();
+
         }
     }
 }
