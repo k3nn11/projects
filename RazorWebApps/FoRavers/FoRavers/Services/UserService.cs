@@ -6,42 +6,46 @@ namespace FoRavers.Services
 {
     public class UserService
     {
-        private readonly IRepository<User> _userRepository;
-        private readonly IRepository<Follow> _followRepository;
-        private readonly IRepository<RSVP> _rsvpRepository;
+        private readonly IRepository<User> _users;
+        private readonly IFollowRepository _follows;
+        private readonly IRepository<RSVP> _rsvps;
 
-        public UserService(IRepository<User> userRepository, 
-            IRepository<Follow> followRepository, 
-            IRepository<RSVP> rsvpRepository)
+        public UserService(IRepository<User> users, 
+            IFollowRepository follows, 
+            IRepository<RSVP> rsvps)
         {
-            _userRepository = userRepository;
-            _followRepository = followRepository;
-            _rsvpRepository = rsvpRepository;
+            _users = users;
+            _follows = follows;
+            _rsvps = rsvps;
 
         }
 
-        public async Task<Follow> FollowAsync(Guid userId, Guid targetId, Target target)
+        public async Task<Follow> FollowAsync(Guid userId, Guid targetId, string target)
         {
-            var user = await _userRepository.GetByIdAsync(userId);
+            var alreadyFollowing = await _follows
+                .ExistsAsync(userId, targetId,target);
+            if(alreadyFollowing)
+            {
+                throw new InvalidOperationException($"User with ID {userId} is already following {target} with ID {targetId}.");
+            }
+            var parsedTarget = Enum.TryParse<Target>(target, true, out var parsed) ? parsed : throw new ArgumentException($"Invalid target: {target}");
+
+            var user = await _users.GetByIdAsync(userId);
             if (user is null)
             {
                 throw new InvalidOperationException($"User with ID {userId} not found.");
             }
 
-            var follow = new Follow
-            {
-                UserId = userId,
-                TargetId = targetId,
-                Target = target,
-            };
+            var follow = new Follow(userId);
+            follow.SetTarget(parsed, targetId);
 
-            await _followRepository.AddAsync(follow);
+            await _follows.AddAsync(follow);
             return follow;
         }
 
         public async Task<RSVP> MarkGoing(Guid userId, Guid eventId, RSVPStatus status)
         {
-            var user = await _userRepository.GetByIdAsync(userId);
+            var user = await _users.GetByIdAsync(userId);
             if (user is null)
             {
                 throw new InvalidOperationException($"User with ID {userId} not found.");
@@ -52,13 +56,13 @@ namespace FoRavers.Services
                 EventId = eventId,
                 Status = status,
             };
-            await _rsvpRepository.AddAsync(rsvp);
+            await _rsvps.AddAsync(rsvp);
             return rsvp;
         }
 
         public async Task UpdateProfileAsync(Guid userID, UpdateUserProfileDTO updateUserProfileDTO)
         {
-            var user = await _userRepository.GetByIdAsync(userID);
+            var user = await _users.GetByIdAsync(userID);
             if (user is null)
             {
                 throw new InvalidOperationException($"User with ID {userID} not found.");
@@ -67,7 +71,7 @@ namespace FoRavers.Services
             user.UpdateProfile(updateUserProfileDTO.UserName, updateUserProfileDTO.Email,
                 updateUserProfileDTO.ProfilePhoto, updateUserProfileDTO.MusicGenre);
 
-            _userRepository.Update(user);
+            _users.Update(user);
         }
     }
 }
