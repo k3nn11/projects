@@ -25,22 +25,14 @@ namespace FoRavers.Data
         
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Follow>()
-                .HasKey(f => new { f.UserId, f.TargetId });
-            modelBuilder.Entity<Follow>()
-                .HasOne(f => f.User)
-                .WithMany(u => u.Follows)
-                .HasForeignKey(f => f.UserId);
-            modelBuilder.Entity<Follow>()
-                .HasOne(f => f.Promoter)
-                .WithMany(p => p.Follows)
-                .HasForeignKey(f => f.TargetId)
-                .OnDelete(DeleteBehavior.Cascade);
-            modelBuilder.Entity<Follow>()
-                .HasOne(f => f.Venue)
-                .WithMany(v => v.Follows)
-                .HasForeignKey(f => f.TargetId)
-                .OnDelete(DeleteBehavior.Cascade);
+            modelBuilder.Entity<Follow>(entity =>
+            { entity.HasKey(x => x.Id);
+                entity.Property(f => f.Target)
+                      .HasConversion<string>();
+             entity.HasIndex(f => new { f.UserId, f.Target, f.TargetId })
+                    .IsUnique();
+            }
+            ); 
 
             modelBuilder.Entity<RSVP>()
                 .HasKey(r => new { r.UserId, r.EventId });
