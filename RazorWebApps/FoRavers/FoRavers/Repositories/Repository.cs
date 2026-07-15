@@ -7,7 +7,7 @@ namespace FoRavers.Repositories
 {
     public class Repository<T> : IRepository<T> where T : EntityBase
     {
-        private readonly FoRaversDbContext _context;
+        protected readonly FoRaversDbContext _context;
         private readonly DbSet<T> _dbSet;
 
         public Repository(FoRaversDbContext context) 
