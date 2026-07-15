@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FoRavers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d004f687785fb10ce642040f28aa3ff574e7d0df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cc61306862712346a48df662747e592c878c19f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FoRavers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FoRavers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
