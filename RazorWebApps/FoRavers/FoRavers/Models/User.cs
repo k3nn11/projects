@@ -16,5 +16,13 @@ namespace FoRavers.Models
 
         public ICollection<RSVP> RSVPs { get; set; } = new List<RSVP>();
 
+        public void UpdateProfile(string userName, string email, string profilePhoto, string musicGenre)
+        {
+            if(UserName is not null)UserName = userName;
+            if(Email is not null) Email = email;
+            if(ProfilePhoto is not null) ProfilePhoto = profilePhoto;
+            if(MusicGenre is not null) MusicGenre = musicGenre;
+        }
+
     }
 }
