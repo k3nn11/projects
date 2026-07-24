@@ -32,19 +32,18 @@ namespace FoRavers.Data
              entity.HasIndex(f => new { f.UserId, f.Target, f.TargetId })
                     .IsUnique();
             }
-            ); 
+            );
 
-            modelBuilder.Entity<RSVP>()
-                .HasKey(r => new { r.UserId, r.EventId });
-            modelBuilder.Entity<RSVP>()
-                .HasOne(r => r.User)
-                .WithMany(u => u.RSVPs)
-                .HasForeignKey(r => r.UserId);
-            modelBuilder.Entity<RSVP>()
-                .HasOne(r => r.Event)
-                .WithMany(e => e.RSVPs)
-                .HasForeignKey(r => r.EventId)
-                .OnDelete(DeleteBehavior.Cascade);
+            modelBuilder.Entity<RSVP>(entity =>
+            {
+                entity.HasKey(x => x.Id);
+                entity.Property(r => r.Status).HasConversion<string>();
+                entity.HasIndex(r => new { r.UserId, r.EventId })
+                      .IsUnique();
+            }
+            );
+                
+            
         }
 }
 }
