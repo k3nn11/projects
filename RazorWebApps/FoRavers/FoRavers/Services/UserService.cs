@@ -43,23 +43,6 @@ namespace FoRavers.Services
             return follow;
         }
 
-        public async Task<RSVP> MarkGoing(Guid userId, Guid eventId, RSVPStatus status)
-        {
-            var user = await _users.GetByIdAsync(userId);
-            if (user is null)
-            {
-                throw new InvalidOperationException($"User with ID {userId} not found.");
-            }
-            var rsvp = new RSVP
-            {
-                UserId = userId,
-                EventId = eventId,
-                Status = status,
-            };
-            await _rsvps.AddAsync(rsvp);
-            return rsvp;
-        }
-
         public async Task UpdateProfileAsync(Guid userID, UpdateUserProfileDTO updateUserProfileDTO)
         {
             var user = await _users.GetByIdAsync(userID);
