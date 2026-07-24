@@ -2,7 +2,8 @@
 {
     public enum RSVPStatus
     {
-        Going,
-        Interested
+        Interested,
+        Confirmed,
+        Canceled
     }
 }
